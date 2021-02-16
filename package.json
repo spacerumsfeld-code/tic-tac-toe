@@ -1,0 +1,14 @@
+{
+  "name": "tic-tac-toe",
+  "version": "0.1",
+  "description": "play a compelling game of tic-tac-toe with your mate(s)",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spacerumsfeld-code/tic-tac-toe.git"
+  },
+  "author": ""
+}
